@@ -32,3 +32,4 @@ getBestStudent({
 // John's avg = 90
 // Bob's avg = 83.33
 ```
+[solution](https://github.com/Gayane25/Getter-Setter-Property-Descriptor/blob/master/getBestStudent.js)
