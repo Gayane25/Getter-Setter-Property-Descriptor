@@ -50,3 +50,16 @@ To illustrate, the day of the week for "12/07/2016" is "Wednesday".
 | getDay("12/08/2011") | "Thursday"  |
 
 [solution](https://github.com/Gayane25/Getter-Setter-Property-Descriptor/blob/master/getWeek.js)
+
+- Implement following function
+
+```javascript
+const formatDate = date => {
+  return date;
+};
+
+console.log('Actual output: ', formatDate(new Date('2020-05-14')));
+console.log('Expected output', '14 May 2020');
+```
+
+[solution](https://github.com/Gayane25/Getter-Setter-Property-Descriptor/blob/master/formatDate.js)
