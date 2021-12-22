@@ -32,4 +32,21 @@ getBestStudent({
 // John's avg = 90
 // Bob's avg = 83.33
 ```
+
 [solution](https://github.com/Gayane25/Getter-Setter-Property-Descriptor/blob/master/getBestStudent.js)
+
+# Date tasks
+
+- Write a function that, given a date (in the format MM/DD/YYYY), returns the day of the week as a string. Each day name must be one of the following strings: "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", or "Saturday".
+
+To illustrate, the day of the week for "12/07/2016" is "Wednesday".
+
+- This challenge assumes the week starts on Sunday.\*
+
+| Input                | Output      |
+| -------------------- | ----------- |
+| getDay("12/07/2016") | "Wednesday" |
+| getDay("09/04/2016") | "Sunday"    |
+| getDay("12/08/2011") | "Thursday"  |
+
+[solution](https://github.com/Gayane25/Getter-Setter-Property-Descriptor/blob/master/getWeek.js)
